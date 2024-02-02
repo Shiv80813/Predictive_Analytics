@@ -1,0 +1,5 @@
+Predict attendance for a Tuesday night game including confidence and prediction intervals - 
+  With bobbleheads
+  Without bobbleheads
+
+->R square of 0.5732287
