@@ -1,0 +1,7 @@
+Determine the strength of the relationship between 
+  Income of the customer 
+  Number of visits
+
+-> Develop a regression model to predict the average monthly visits based on income
+-> Results - For every 1% increase in income, the visits increase by approx. 0.0392
+
